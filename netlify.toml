@@ -99,3 +99,9 @@ package = "@netlify/plugin-sitemap"
   trailingSlash = true
   changeFreq = "weekly"
   priority = 0.5
+
+[[plugins]]
+package = "@algolia/netlify-plugin-crawler"
+  [plugins.inputs]
+  branches = ['algolia-poc']
+  mainBranch = 'algolia-poc'
