@@ -44,6 +44,7 @@ kustomization
 .md
 Minnaker
 MySQL
+Nginx
 namespace
 namespaces
 OpenShift
@@ -56,6 +57,7 @@ REST
 Rosco
 ServiceNow
 Spinnaker
+spinsvc
 SQL
 yaml
 {{< heading "prereq" >}}
